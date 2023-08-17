@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>backstage/backstage</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backstage is an open platform for building developer portals</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/consul-template</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>confluentinc/schema-registry</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Confluent Schema Registry for Kafka</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/openapi-diff</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command line tool to detect breaking changes between two openapi specifications</div>
