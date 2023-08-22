@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ansman/kotshi</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An annotation processor that generates Moshi adapters from immutable Kotlin data classes.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>square/moshi</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern JSON library for Kotlin and Java.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenAPITools/openapi-diff</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utility for comparing two OpenAPI specifications.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gradle/test-retry-gradle-plugin</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gradle plugin to retry tests that have failed to mitigate test flakiness.</div>
