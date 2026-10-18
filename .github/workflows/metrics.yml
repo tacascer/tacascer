@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: tacascer/lowlighter-metrics@7a79dac2005b4ef085a81c20418c5db269c583a4
+      - uses: tacascer/lowlighter-metrics@9fff7ce4d3d42e6976271141c2b38ed0f97010c4
         with:
           # Your GitHub token
           # The following scopes are required:
