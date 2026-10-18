@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: tacascer/lowlighter-metrics@35ff721b24e7e1c0e122d018e52245d00733b4fc
+      - uses: tacascer/lowlighter-metrics@9af46f94c3162997fddc09f974acac333d694c05
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -26,6 +26,7 @@ jobs:
 
           # Options
           user: tacascer
+          plugins_errors_fatal: yes
           template: classic
           base: header, activity, community
           config_timezone: America/New_York
